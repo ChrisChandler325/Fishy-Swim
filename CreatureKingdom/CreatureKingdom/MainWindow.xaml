@@ -1,0 +1,21 @@
+﻿<Window x:Class="CreatureKingdom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Creature Kingdom" Height="600" Width="800" Closed="Window_Closed">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21"/>
+            <RowDefinition Height="547*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Height="21" VerticalAlignment="Top">
+            <Menu>
+                <MenuItem Header="Action">
+                    <MenuItem Header="Pause" Click="PauseMenuItem_Click"></MenuItem>
+                    <MenuItem Header="Play" Click="PlayMenuItem_Click"></MenuItem>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <Canvas x:Name="kingdom" Background="LightBlue" Grid.Row="1"></Canvas>
+        <Label x:Name="status_label" HorizontalAlignment="Left" VerticalAlignment="Bottom" Grid.Row="1" Content="" />
+    </Grid>
+</Window>

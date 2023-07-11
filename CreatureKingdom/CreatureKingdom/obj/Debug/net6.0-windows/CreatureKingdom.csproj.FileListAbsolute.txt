@@ -1,0 +1,40 @@
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.csproj.AssemblyReference.cache
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\MainWindow.baml
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\App.g.cs
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom_MarkupCompile.cache
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.g.resources
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.GeneratedMSBuildEditorConfig.editorconfig
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.AssemblyInfoInputs.cache
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.AssemblyInfo.cs
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.csproj.CoreCompileInputs.cache
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.exe
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.deps.json
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.runtimeconfig.json
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.dll
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\ref\CreatureKingdom.dll
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.pdb
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.dll
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\ref\CreatureKingdom.dll
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.pdb
+D:\FangWang\Course\IT4400\SP23\M13\HW\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.genruntimeconfig.cache
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.exe
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.deps.json
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.runtimeconfig.json
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.dll
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\bin\Debug\net6.0-windows\CreatureKingdom.pdb
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.csproj.AssemblyReference.cache
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom_MarkupCompile.cache
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.g.resources
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.AssemblyInfoInputs.cache
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.AssemblyInfo.cs
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.dll
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\refint\CreatureKingdom.dll
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.pdb
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\CreatureKingdom.genruntimeconfig.cache
+C:\Users\Christopher Chandler\Desktop\Esquela\NetFramework\Week 13\CreatureKingdom\CreatureKingdom\obj\Debug\net6.0-windows\ref\CreatureKingdom.dll
